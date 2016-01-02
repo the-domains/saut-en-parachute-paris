@@ -1,6 +1,6 @@
 name: Saut en Parachute Paris
 favicon: null
-layout_spectrum: 0.10649153729900718
+layout_spectrum: 0.49499
 typography_spectrum: 0.011854069773107767
 title: Saut en Parachute Paris
 cta:
@@ -22,8 +22,8 @@ color:
     - '#B3BFB8'
     - '#F0F7F4'
     - '#A2E3C4'
-  brandStrength: 0.3970156069844961
-  lightness: 0.4422995885834098
-  saturation: 0.09888492687605321
-  rhythmicContrast: 0.9018877414055169
+  brandStrength: 0.5
+  lightness: 0.625
+  saturation: 0.5
+  rhythmicContrast: 0.75
 purpose: []
