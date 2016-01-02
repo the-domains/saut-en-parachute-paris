@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[Saut en Parachute Paris]]></title>
         <description><![CDATA[Saut en Parachute Paris]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/saut-en-parachute-paris/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 02 Jan 2016 17:33:22 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Sat, 02 Jan 2016 17:33:51 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/saut-en-parachute-paris/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[LE DÉROULEMENT DU SAUT]]></title>
+            <description><![CDATA[<article><h1>LE DÉROULEMENT DU SAUT</h1><p>A 2000m on arrête tout exercice et on se prepare pour ouvrir le parachute à 1500m. Alors le parachute principal sort de son sac. Il commence à prendre l'air et on transite d'une position horizontale à verticale. Le parachute s'ouvre entièrement en 4-5 sec. On passe de 200km/h à 30km/h, le changement de vitesse se fait sentir délicatement. Les moniteurs continurrons en chute libre pendant encore 500m, comme ça ils vous attendront au sol.</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/7f9b7ceb-ff87-4005-a1e5-87d6eea361ac.jpg"></article>]]></description>
+            <link>https://thegrid.ai/saut-en-parachute-paris/le-deroulement-du-saut/index.html</link>
+            <guid isPermaLink="false">7a3a93ba-9646-497f-bd73-92ed0808f594</guid>
+            <pubDate>Sat, 02 Jan 2016 17:33:14 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Saut en Tandem]]></title>
             <description><![CDATA[<article><h1>Saut en Tandem</h1><p>Le saut en parachute en tandem est une façon simple et fabuleuse de découvrir la chute libre et le parachutisme. Une expérience unique...  Une sensation de liberté absolue... L’émotion d’une expérience incroyable… Des souvenirs intenses et inoubliables : la montée en avion, la chute libre, la descente sous voile... Le tout en toute sécurité, grâce au savoir-faire de moniteurs qualifiés.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/78f4a4d71f1a6b7ba66a1b8b57c523c909fa70e9.jpg"></article>]]></description>
-            <link>undefinedsaut-en-tandem/index.html</link>
+            <link>https://thegrid.ai/saut-en-parachute-paris/saut-en-tandem/index.html</link>
             <guid isPermaLink="false">2ee7bf6f-1ec6-43d9-ad86-b6ef55cc09d2</guid>
             <pubDate>Sat, 02 Jan 2016 17:33:13 GMT</pubDate>
         </item>
